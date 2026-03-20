@@ -60,6 +60,7 @@
 
    **RESULT:**
 
+<img width="1454" height="720" alt="image" src="https://github.com/user-attachments/assets/945707a1-c35b-46b8-8c8e-055798865c78" />
 
 
 Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 	/	V supply are:
