@@ -30,10 +30,10 @@
 
 
 **CALCULATION**
+<img width="1600" height="1354" alt="image" src="https://github.com/user-attachments/assets/a6e55448-1903-4396-a4c1-fa0bd5894220" />
 
 <img width="1077" height="1559" alt="image" src="https://github.com/user-attachments/assets/66a95bf7-0611-4a72-b967-e473c1056040" />
 
-<img width="1600" height="1354" alt="image" src="https://github.com/user-attachments/assets/a6e55448-1903-4396-a4c1-fa0bd5894220" />
 
 
 
