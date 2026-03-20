@@ -21,19 +21,19 @@
 *Multi-source DC circuits may be analyzed using a mesh current technique. The process involves identifying minimum number of small loops such that every component exists in at least one loop. KVL is then applied to each loop. The loop currents are referred to as mesh currents as each current interlocks or meshes with the surrounding loop currents. As a result there will be a set of simultaneous equations created, an unknown mesh current for each loop. Once the mesh currents are determined, various branch currents and component voltages may be derived*
 
 **CIRCUIT DIAGRAM:**
+<img width="1385" height="1033" alt="image" src="https://github.com/user-attachments/assets/299af95e-f2f7-4d7f-a036-a4941ac9dd2e" />
 
-<img width="939" height="1600" alt="image" src="https://github.com/user-attachments/assets/a83dabed-3170-4dbd-961f-be22eb4825ad" />
 
 **TABULAR COLUMN**
 
-<img width="943" height="1599" alt="image" src="https://github.com/user-attachments/assets/a7ec70dc-f38f-403c-bee4-040dbf9c4f70" />
+<img width="1600" height="894" alt="image" src="https://github.com/user-attachments/assets/e03aac76-11f9-41be-964f-0e3cb2564c62" />
 
 
 **CALCULATION**
 
-<img width="943" height="1599" alt="image" src="https://github.com/user-attachments/assets/e22bc2c8-9bf4-4a4e-95c2-6257d3a5fad8" />
+<img width="1077" height="1559" alt="image" src="https://github.com/user-attachments/assets/66a95bf7-0611-4a72-b967-e473c1056040" />
 
-<img width="1600" height="951" alt="image" src="https://github.com/user-attachments/assets/7389e187-d6b8-48e5-a18a-4c2ea4a21d62" />
+<img width="1600" height="1354" alt="image" src="https://github.com/user-attachments/assets/a6e55448-1903-4396-a4c1-fa0bd5894220" />
 
 
 
@@ -54,11 +54,13 @@
 
 **MARK SPLITUP**
 
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/5bc0397c-a6d6-4ea9-9da8-2c9aa52a8595" />
+<img width="1208" height="1600" alt="image" src="https://github.com/user-attachments/assets/a9a4b1f8-163f-4679-993b-db1f50c0b6db" />
 
 
 
    **RESULT:**
+
+
 
 Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 	/	V supply are:
 
